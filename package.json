@@ -1,14 +1,14 @@
 {
-  "name": "@azu/github-package-withtout-package-json-settings",
+  "name": "@azu/github-package-without-package-json-settings",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/azu/github-package-withtout-package-json-settings/tree/master/",
+  "homepage": "https://github.com/azu/github-package-without-package-json-settings/tree/master/",
   "bugs": {
-    "url": "https://github.com/azu/github-package-withtout-package-json-settings/issues"
+    "url": "https://github.com/azu/github-package-without-package-json-settings/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azu/github-package-withtout-package-json-settings.git"
+    "url": "https://github.com/azu/github-package-without-package-json-settings.git"
   },
   "license": "MIT",
   "author": "azu",
@@ -21,6 +21,7 @@
     "test": "test"
   },
   "scripts": {
+    "build": "echo \"No build\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

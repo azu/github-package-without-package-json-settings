@@ -1,4 +1,4 @@
-# @azu/github-package-withtout-package-json-settings
+# @azu/github-package-without-package-json-settings
 
 
 
@@ -6,7 +6,7 @@
 
 Install with [npm](https://www.npmjs.com/):
 
-    npm install @azu/github-package-withtout-package-json-settings
+    npm install @azu/github-package-without-package-json-settings
 
 ## Usage
 
@@ -14,7 +14,7 @@ Install with [npm](https://www.npmjs.com/):
 
 ## Changelog
 
-See [Releases page](https://github.com/azu/github-package-withtout-package-json-settings/releases).
+See [Releases page](https://github.com/azu/github-package-without-package-json-settings/releases).
 
 ## Running tests
 
@@ -26,7 +26,7 @@ Install devDependencies and Run `npm test`:
 
 Pull requests and stars are always welcome.
 
-For bugs and feature requests, [please create an issue](https://github.com/azu/github-package-withtout-package-json-settings/issues).
+For bugs and feature requests, [please create an issue](https://github.com/azu/github-package-without-package-json-settings/issues).
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
